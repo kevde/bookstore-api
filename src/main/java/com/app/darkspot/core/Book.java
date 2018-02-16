@@ -1,8 +1,10 @@
-package core;
+package com.app.darkspot.core;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.io.File;
 import java.util.Date;
 
+@XmlRootElement
 public class Book {
 
     private final String id;

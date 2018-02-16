@@ -1,21 +1,22 @@
-package filters;
+package com.app.darkspot.filters;
 
-import core.Book;
+import com.app.darkspot.core.Book;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class AuthorFilter implements Filter {
-    private final String author;
+public class TagFilter implements Filter {
+    private final String tag;
 
-    public AuthorFilter(String author) {
-        this.author = author;
+    public TagFilter(String tag) {
+        this.tag = tag;
     }
 
     public Book[] getFilteredBooks(Book[] books) {
         List<Book> streamedBooks = Arrays.asList(books);
         List<Book> filteredBooks = streamedBooks.stream()
-                .filter((book) -> book.author.equals(this.author))
+                .filter((book) -> book.tag.equals(this.tag))
                 .collect(Collectors.toList());
         return filteredBooks.toArray(new Book[0]);
     }

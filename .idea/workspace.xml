@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9e57b08-66d8-4192-8974-d9f4ecfb3872" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_collections_google_collections_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/controllers/AddBookController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/controllers/DeleteBookController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/controllers/FilteredListController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/controllers/ListBooksController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/controllers/RenameTagController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/controllers/AddBookControllerTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bookstore-api.iml" afterPath="$PROJECT_DIR$/bookstore-api.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/Book.java" afterPath="$PROJECT_DIR$/src/main/java/core/Book.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/BookStore.java" afterPath="$PROJECT_DIR$/src/main/java/core/BookStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/core/BookStoreTest.java" afterPath="$PROJECT_DIR$/src/test/java/core/BookStoreTest.java" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="22ecb88c-81c9-4aed-b34d-788538fa76ed" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,143 +12,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="AddBookController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AddBookController.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JerseyTest.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/test-framework/jersey-test-framework-core/2.25/jersey-test-framework-core-2.25.jar!/org/glassfish/jersey/test/JerseyTest.class">
+      <file leaf-file-name="RenameTagController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/RenameTagController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-              <folding>
-                <marker date="1518751596953" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1518751596953" expanded="false" signature="149:1521" ph="..." />
-                <marker date="1518751596953" expanded="true" signature="2270:2396" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="2463:2579" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="2633:2780" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="2818:2829" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="2855:2861" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="2927:3046" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="3121:3210" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="3263:3274" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="3333:3339" ph=" }" />
-                <marker date="1518751596953" expanded="false" signature="3393:3404" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="3464:3470" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="3529:3610" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="3670:3752" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="3817:3828" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="3869:3875" ph=" }" />
-                <marker date="1518751596953" expanded="false" signature="3940:3951" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="3993:3999" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="4070:4134" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="4194:4205" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="4260:4266" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="4320:4895" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="4962:5149" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="5189:5312" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="5367:5378" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="5437:5443" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="5536:5719" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="5807:8591" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="8692:9341" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="9378:9389" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="9455:9461" ph=" }" />
-                <marker date="1518751596953" expanded="false" signature="9509:9520" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="9552:9558" ph=" }" />
-                <marker date="1518751596953" expanded="false" signature="9592:9603" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="9627:9633" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="9688:10017" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="10074:10456" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="10490:10501" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="10534:10540" ph=" }" />
-                <marker date="1518751596953" expanded="false" signature="10587:10598" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="10643:10649" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="10707:11153" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="11211:11218" ph="{}" />
-                <marker date="1518751596953" expanded="true" signature="11251:11460" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="11496:12337" ph="{...}" />
-                <marker date="1518751596953" expanded="false" signature="12393:12404" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="12445:12451" ph=" }" />
-                <marker date="1518751596953" expanded="true" signature="12505:12681" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="12724:13366" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="13406:14023" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="14065:14369" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="14415:14506" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="14568:14726" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="14774:15193" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="15246:15801" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="15860:16389" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="16446:17288" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="16571:16744" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="16792:17085" ph="{...}" />
-                <marker date="1518751596953" expanded="true" signature="17115:17126" ph="{}" />
-                <marker date="1518751596953" expanded="true" signature="17181:17192" ph="{}" />
-                <marker date="1518751596953" expanded="false" signature="17237:17252" ph=" { " />
-                <marker date="1518751596953" expanded="false" signature="17272:17282" ph=" }" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ListBooksController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/ListBooksController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/ListBooksController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="105">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilteredListController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/FilteredListController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RenameTagController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RenameTagController.java">
+      <file leaf-file-name="DeleteBookController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/DeleteBookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -187,46 +67,60 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+            <state relative-caret-position="273">
+              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeleteBookController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/DeleteBookController.java">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="294">
+              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddBookController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/AddBookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/core/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddBookControllerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/darkspot/controllers/AddBookControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="JUnit4 Test Class" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>package core\;\n\nimport org\.junit\.Before\;\nimport org\.junit\.Test\;\nimport org\.mockito\.Mockito\;\n\nimport java\.io\.File\;\n\nimport static org\.hamcrest\.core\.IsEqual\.equalTo\;\nimport static org\.junit\.Assert\.\*\;\n\npublic class BookTest \{\n    private static final String NAME \= \&quot;Sample Book\&quot;\;\n    private static final String ID \= \&quot;1\&quot;\;\n    private static final Float PRICE \= \(float\) 2000\;\n    private static final String OLD_TAG \= \&quot;Old Tag\&quot;\;\n    private static final String NEW_TAG \= \&quot;New Tag\&quot;\;\n    private Book book\;\n\n    \@Before\n    public void setUp\(\) \{\n        book \= new Book\(ID\, NAME\, PRICE\)\;\n    \}\n\n    \@Test\n    public void should_add_document\(\) \{\n        \/\/ given\n        File mockFile \= Mockito\.mock\(File\.class\)\;\n\n        \/\/ when\n        Book returnedBook \= book\.addDocument\(mockFile\)\;\n\n        \/\/ then\n        assertThat\(returnedBook\.document\, equalTo\(mockFile\)\)\;\n    \}\n\n    \@Test\n    public void should_rename_tag\(\) \{\n        \/\/ given\n        book \= new Book\(ID\, NAME\, PRICE\, OLD_TAG\)\;\n\n        \/\/ when\n        Book modifiedBook \= book\.renameTag\(NEW_TAG\)\;\n\n        \/\/ then\n        assertThat\(modifiedBook\.tag\, equalTo\(NEW_TAG\)\)\;\n    \}\n\n    \@Test\n    public void should_update_authors\(\) \{\n        \/\/ given\n        String\[\] authors \= \{\&quot;Stephen\&quot;\,\&quot;Tricia\&quot; \}\;\n\n        \/\/ when\n        Book returnedBook \= book\.withAuthors\(authors\)\;\n\n        \/\/ then\n        assertThat\(returnedBook\.authors\, equalTo\(authors\)\)\;\n    \}\n\n\}</find>
-      <find>hamcrest-core</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -236,30 +130,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/filters/Filter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/filters/TagFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/filters/DateFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/filters/TagFilter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/core/BookTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/filters/DateFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/filters/AuthorFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/filters/AuthorFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/filters/PriceFilter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/filters/PriceFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/filters/LimitFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/filters/LimitFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/core/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java/core/THIRD_ID.java" />
-        <option value="$PROJECT_DIR$/src/test/java/core/BookStoreTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/core/BookStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/AddBookController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/DeleteBookController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/FilteredListController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/ListBooksController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/RenameTagController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/controllers/AddBookControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/FilteredListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/darkspot/core/Book.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/AddBookController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/darkspot/controllers/AddBookControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/darkspot/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -292,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,7 +200,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="darkspot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="darkspot" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="darkspot" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
@@ -343,32 +238,7 @@
             <path>
               <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookstore-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bookstore-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bookstore-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bookstore-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="AddBookControllerTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookstore-api" type="b2602c69:ProjectViewProjectNode" />
@@ -378,35 +248,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="true" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3998162" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="controllers" />
-      <recent name="filters" />
-      <recent name="core" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="core" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -420,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in bookstore-api">
+  <component name="RunManager" selected="JUnit.AddBookControllerTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -445,20 +296,20 @@
     <configuration name="AddBookControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="controllers.*" />
+          <option name="PATTERN" value="com.app.darkspot.controllers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="bookstore-api" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controllers" />
-      <option name="MAIN_CLASS_NAME" value="controllers.AddBookControllerTest" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="com.app.darkspot.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.app.darkspot.controllers.AddBookControllerTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -467,93 +318,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="AddBookControllerTest.addBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="controllers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="bookstore-api" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controllers" />
-      <option name="MAIN_CLASS_NAME" value="controllers.AddBookControllerTest" />
-      <option name="METHOD_NAME" value="addBook" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="All in bookstore-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="bookstore-api" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="LimitFilterTest.should_books_filtered_by_limit_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="filters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="bookstore-api" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="filters" />
-      <option name="MAIN_CLASS_NAME" value="filters.LimitFilterTest" />
-      <option name="METHOD_NAME" value="should_books_filtered_by_limit_number" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TagFilterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="filters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="bookstore-api" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="filters" />
-      <option name="MAIN_CLASS_NAME" value="filters.TagFilterTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -622,20 +398,13 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.All in bookstore-api" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TagFilterTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LimitFilterTest.should_books_filtered_by_limit_number" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AddBookControllerTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.AddBookControllerTest.addBook" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AddBookControllerTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.All in bookstore-api" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AddBookControllerTest.addBook" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AddBookControllerTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LimitFilterTest.should_books_filtered_by_limit_number" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TagFilterTest" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AddBookControllerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -647,77 +416,77 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9e57b08-66d8-4192-8974-d9f4ecfb3872" name="Default" comment="" />
-      <created>1518707746807</created>
+      <changelist id="22ecb88c-81c9-4aed-b34d-788538fa76ed" name="Default" comment="" />
+      <created>1518767117809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1518707746807</updated>
+      <updated>1518767117809</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 24m 23s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 25m 14s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 33m 37s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 26m 14s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 34m 16s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 26m 58s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 46m 02s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 27m 43s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 47m 48s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 28m 03s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 50m 08s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 33m 39s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 50m 48s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 48m 58s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 51m 17s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 50m 04s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 51m 30s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 51m 33s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_bookstore-api - 2018.02.16 at 12h 52m 23s.xml">
-      <configuration name="All in bookstore-api" configurationId="JUnit" />
+    <history-entry file="AddBookControllerTest - 2018.02.16 at 18h 55m 01s.xml">
+      <configuration name="AddBookControllerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.45520833" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.53125" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.45416668" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Jelastic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.43177083" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.80625" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Jelastic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.46875" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.51591897" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.56822914" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -727,121 +496,90 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar!/org/hamcrest/core/IsCollectionContaining.class</url>
-          <line>35</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/AddBookController.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/app/darkspot/controllers/AddBookControllerTest.java</url>
+          <line>39</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/core/IsCollectionContaining.java</url>
-          <line>30</line>
+          <url>file://$PROJECT_DIR$/src/test/java/com/app/darkspot/controllers/AddBookControllerTest.java</url>
+          <line>38</line>
           <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/filters/TagFilterTest.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/filters/LimitFilter.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/core/BookStore.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/core/BookStore.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/controllers/AddBookControllerTest.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/controllers/AddBookController.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/controllers/AddBookControllerTest.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>contains(hasProperty(&quot;tag&quot;, is(INVALID_TAG)))</expression-string>
+        <expression-string>((ClientResponse)((InboundJaxrsResponse)response).context).entityContent.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.glassfish.jersey.client.ClientResponse,org.glassfish.jersey.client.InboundJaxrsResponse</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ClientResponse)((InboundJaxrsResponse)response).context).entityContent</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.glassfish.jersey.client.ClientResponse,org.glassfish.jersey.client.InboundJaxrsResponse</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.getEntity()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>books</expression-string>
+        <expression-string>book</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>streamedBooks</expression-string>
+        <expression-string>var8</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Mockito.mock(Book.class)</expression-string>
+        <expression-string>target(&quot;add&quot;).request().post(request)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/TagFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/MyResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/TagFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/BookStoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -849,99 +587,314 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/BookStoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/BookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="70" column="39" lean-forward="false" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/filters/DateFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1058#1059#0" expanded="false" />
-            <element signature="e#1087#1088#0" expanded="false" />
-            <element signature="e#1117#1118#0" expanded="false" />
-          </folding>
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/BookStore.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#215#216#0" expanded="false" />
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#280#281#0" expanded="false" />
-            <element signature="e#323#324#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/TagFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/TagFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar!/org/hamcrest/MatcherAssert.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/filters/DateFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore-api.iml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar!/org/glassfish/jersey/server/model/internal/JavaResourceMethodDispatcherProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar!/org/glassfish/jersey/server/model/internal/AbstractJavaResourceMethodDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar!/org/glassfish/jersey/server/model/ResourceMethodInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="232" column="0" lean-forward="false" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar!/org/glassfish/jersey/server/ServerRuntime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+          <folding>
+            <marker date="1518750393095" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518750393095" expanded="false" signature="151:3941" ph="..." />
+            <marker date="1518750393095" expanded="true" signature="5083:5879" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="5367:5523" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="6318:7620" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="7678:10765" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="9179:9227" ph="run() → {" />
+            <marker date="1518750393095" expanded="false" signature="10742:10757" ph="}" />
+            <marker date="1518750393095" expanded="false" signature="10820:10831" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="10863:10869" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="11012:11238" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="11385:12005" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="11549:11564" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="11578:11588" ph=" }" />
+            <marker date="1518750393095" expanded="false" signature="11635:11650" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="11682:11692" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="11761:11999" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="11797:11919" ph="invoke(callback) → { " />
+            <marker date="1518750393095" expanded="false" signature="11955:11987" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="12152:12758" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="12316:12331" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="12345:12355" ph=" }" />
+            <marker date="1518750393095" expanded="false" signature="12402:12417" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="12449:12459" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="12519:12752" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="12555:12677" ph="invoke(callback) → { " />
+            <marker date="1518750393095" expanded="false" signature="12708:12740" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="12812:13875" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="12979:12994" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="13015:13025" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="13089:13179" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="13286:13301" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="13339:13349" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="13417:13869" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="13977:26775" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="14180:14293" ph="handleTimeout(asyncResponse) → {" />
+            <marker date="1518750393095" expanded="false" signature="14359:14374" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="15091:15666" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="15738:16180" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="16234:16390" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="16461:17492" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="16551:16603" ph="run() → {" />
+            <marker date="1518750393095" expanded="false" signature="16722:16782" ph="run() → {" />
+            <marker date="1518750393095" expanded="false" signature="17419:17446" ph="}" />
+            <marker date="1518750393095" expanded="false" signature="17461:17480" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="17527:17950" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="18005:19158" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="18038:18090" ph="run() → {" />
+            <marker date="1518750393095" expanded="false" signature="19127:19146" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="19213:19741" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="19246:19298" ph="run() → {" />
+            <marker date="1518750393095" expanded="false" signature="19710:19729" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="19792:20276" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="20310:20530" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="20343:20406" ph="get() → {" />
+            <marker date="1518750393095" expanded="false" signature="20499:20518" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="20584:20838" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="20617:20680" ph="get() → {" />
+            <marker date="1518750393095" expanded="false" signature="20807:20826" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="20893:21147" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="20926:20989" ph="get() → {" />
+            <marker date="1518750393095" expanded="false" signature="21116:21135" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="21217:22365" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="21678:21730" ph="run() → {" />
+            <marker date="1518750393095" expanded="false" signature="22309:22328" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="22402:22564" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="22603:22767" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="22806:22955" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="22989:23153" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="23215:23590" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="23675:23690" ph=" { " />
+            <marker date="1518750393095" expanded="false" signature="23720:23730" ph=" }" />
+            <marker date="1518750393095" expanded="true" signature="23796:24011" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="24112:25053" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="25117:25708" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="25808:26769" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="26812:47659" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="27449:27641" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="27699:27893" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="27973:28372" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="28423:30905" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="30977:32157" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="32237:32472" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="32558:37057" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="37141:46739" ph="{...}" />
+            <marker date="1518750393095" expanded="false" signature="38418:38548" ph="getOutputStream(contentLength) → {" />
+            <marker date="1518750393095" expanded="false" signature="39146:39181" ph="}" />
+            <marker date="1518750393095" expanded="true" signature="46809:47007" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="47073:47653" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="47738:49029" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="48233:48441" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="48477:48708" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="48743:48871" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="48903:49023" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26.jar!/org/glassfish/jersey/client/ClientRuntime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="199" column="0" lean-forward="false" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+          <folding>
+            <marker date="1518750402197" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518750402197" expanded="false" signature="151:1865" ph="..." />
+            <marker date="1518750402197" expanded="true" signature="2796:5225" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="2857:2989" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="2951:2966" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="4093:4316" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="4372:4637" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="5323:6835" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="5346:6828" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="5395:6816" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="5994:6603" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="6066:6292" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="6145:6264" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="6357:6581" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="6436:6553" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="6887:6974" ph="{...}" />
+            <marker date="1518750402197" expanded="false" signature="7018:7029" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="7100:7106" ph=" }" />
+            <marker date="1518750402197" expanded="true" signature="7165:7260" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="7354:7468" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="7554:7667" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="7754:8101" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="8181:8319" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="8391:8497" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="8430:8489" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="8589:9313" ph="{...}" />
+            <marker date="1518750402197" expanded="true" signature="9371:9992" ph="{...}" />
+            <marker date="1518750402197" expanded="false" signature="10035:10046" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="10071:10077" ph=" }" />
+            <marker date="1518750402197" expanded="false" signature="10114:10125" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="10144:10150" ph=" }" />
+            <marker date="1518750402197" expanded="true" signature="10199:10307" ph="{...}" />
+            <marker date="1518750402197" expanded="false" signature="10337:10348" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="10361:10367" ph=" }" />
+            <marker date="1518750402197" expanded="true" signature="10394:11241" ph="{...}" />
+            <marker date="1518750402197" expanded="false" signature="11274:11285" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="11345:11351" ph=" }" />
+            <marker date="1518750402197" expanded="false" signature="11388:11399" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="11421:11427" ph=" }" />
+            <marker date="1518750402197" expanded="false" signature="11471:11482" ph=" { " />
+            <marker date="1518750402197" expanded="false" signature="11511:11517" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.jar!/org/glassfish/jersey/internal/Errors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <marker date="1518750402635" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518750402635" expanded="false" signature="153:496" ph="..." />
+            <marker date="1518750402635" expanded="false" signature="896:907" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="946:952" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="1033:1132" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="1193:1204" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="1243:1249" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="1312:1323" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="1364:1370" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="1431:1535" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="1599:1858" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="1914:1925" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="1986:1992" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="2071:3575" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="3622:3953" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="4008:4019" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="4051:4057" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="4126:4169" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="4237:4248" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="4279:4285" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="4339:4508" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="4357:4412" ph="call() → {" />
+            <marker date="1518750402635" expanded="false" signature="4478:4493" ph="}" />
+            <marker date="1518750402635" expanded="true" signature="4575:4743" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="4593:4648" ph="call() → {" />
+            <marker date="1518750402635" expanded="false" signature="4714:4729" ph="}" />
+            <marker date="1518750402635" expanded="true" signature="4820:5058" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="5152:5647" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="5689:6099" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="6163:6174" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="6205:6211" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="6293:6359" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="6390:6401" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="6423:6429" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="6462:6473" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="6497:6503" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="6535:6546" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="6569:6575" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="6598:6605" ph="{}" />
+            <marker date="1518750402635" expanded="false" signature="6631:6642" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="6680:6686" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="6714:6725" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="6746:6752" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="6780:7038" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="7069:7080" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="7093:7099" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="7154:7429" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="7506:7936" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="7975:9910" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="8173:8292" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="8331:8346" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="8367:8377" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="8413:8428" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="8448:8458" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="8493:8508" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="8527:8537" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="8579:9579" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="9611:9904" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="9984:10277" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="10119:10134" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="10159:10169" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="10225:10240" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="10261:10271" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.jar!/org/glassfish/jersey/process/internal/RequestScope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="169" column="0" lean-forward="false" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+          <folding>
+            <marker date="1518750402635" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518750402635" expanded="false" signature="161:642" ph="..." />
+            <marker date="1518750402635" expanded="true" signature="891:898" ph="{}" />
+            <marker date="1518750402635" expanded="false" signature="929:940" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="961:967" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="995:1006" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="1028:1034" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="1110:1163" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="1201:1509" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="1556:1722" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="1767:2312" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="2365:2372" ph="{}" />
+            <marker date="1518750402635" expanded="true" signature="2506:2656" ph="{...}" />
+            <marker date="1518750402635" expanded="false" signature="2707:2718" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="2758:2764" ph=" }" />
+            <marker date="1518750402635" expanded="false" signature="2816:2827" ph=" { " />
+            <marker date="1518750402635" expanded="false" signature="2845:2851" ph=" }" />
+            <marker date="1518750402635" expanded="true" signature="2919:3201" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="3245:3567" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="3656:3987" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="4052:4423" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="4495:4826" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="4874:5245" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="5258:5364" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="5448:5880" ph="{...}" />
+            <marker date="1518750402635" expanded="true" signature="5492:5503" ph="{}" />
+            <marker date="1518750402635" expanded="true" signature="5599:5610" ph="{}" />
+            <marker date="1518750402635" expanded="true" signature="5703:5874" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -949,370 +902,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/core/IsCollectionContaining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar!/org/hamcrest/core/IsCollectionContaining.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <marker date="1518721251454" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1518721251454" expanded="false" signature="141:349" ph="..." />
-            <marker date="1518721251454" expanded="false" signature="569:580" ph=" { " />
-            <marker date="1518721251454" expanded="false" signature="617:623" ph=" }" />
-            <marker date="1518721251454" expanded="true" signature="726:1200" ph="{...}" />
-            <marker date="1518721251454" expanded="true" signature="1254:1362" ph="{...}" />
-            <marker date="1518721251454" expanded="true" signature="1468:1531" ph="{...}" />
-            <marker date="1518721251454" expanded="true" signature="1613:1686" ph="{...}" />
-            <marker date="1518721251454" expanded="true" signature="1778:2160" ph="{...}" />
-            <marker date="1518721251454" expanded="true" signature="2239:2549" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.15.0/mockito-core-2.15.0.jar!/org/mockito/internal/util/MockUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar!/org/hamcrest/collection/IsIterableContainingInOrder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.15.0/mockito-core-2.15.0.jar!/org/mockito/internal/configuration/plugins/PluginLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/TagFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/TagFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/AuthorFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/AuthorFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/PriceFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/PriceFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/DateFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/DateFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/THIRD_ID.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main/js.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.jar!/org/glassfish/jersey/internal/inject/Injections.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/BookStoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="116" column="33" lean-forward="false" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/BookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1058#1059#0" expanded="false" />
-            <element signature="e#1087#1088#0" expanded="false" />
-            <element signature="e#1117#1118#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/BookStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#215#216#0" expanded="false" />
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#280#281#0" expanded="false" />
-            <element signature="e#323#324#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/filters/LimitFilterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+        <state relative-caret-position="350">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/filters/LimitFilter.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar!/org/glassfish/jersey/server/model/internal/ResourceMethodInvocationHandlerFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
+            <marker date="1518750393095" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518750393095" expanded="false" signature="166:856" ph="..." />
+            <marker date="1518750393095" expanded="true" signature="1067:1118" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="1399:1571" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="1444:1563" ph="{...}" />
+            <marker date="1518750393095" expanded="true" signature="1635:2282" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/DeleteBookController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/core/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/ListBooksController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1.jar!/javax/ws/rs/core/Application.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RenameTagController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AddBookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="294">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/test-framework/jersey-test-framework-core/2.25/jersey-test-framework-core-2.25.jar!/org/glassfish/jersey/test/JerseyTest.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/darkspot/controllers/AddBookControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/MyResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/RenameTagController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/ListBooksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/FilteredListController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-          <folding>
-            <marker date="1518751596953" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1518751596953" expanded="false" signature="149:1521" ph="..." />
-            <marker date="1518751596953" expanded="true" signature="2270:2396" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="2463:2579" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="2633:2780" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="2818:2829" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="2855:2861" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="2927:3046" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="3121:3210" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="3263:3274" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="3333:3339" ph=" }" />
-            <marker date="1518751596953" expanded="false" signature="3393:3404" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="3464:3470" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="3529:3610" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="3670:3752" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="3817:3828" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="3869:3875" ph=" }" />
-            <marker date="1518751596953" expanded="false" signature="3940:3951" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="3993:3999" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="4070:4134" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="4194:4205" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="4260:4266" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="4320:4895" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="4962:5149" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="5189:5312" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="5367:5378" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="5437:5443" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="5536:5719" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="5807:8591" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="8692:9341" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="9378:9389" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="9455:9461" ph=" }" />
-            <marker date="1518751596953" expanded="false" signature="9509:9520" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="9552:9558" ph=" }" />
-            <marker date="1518751596953" expanded="false" signature="9592:9603" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="9627:9633" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="9688:10017" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="10074:10456" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="10490:10501" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="10534:10540" ph=" }" />
-            <marker date="1518751596953" expanded="false" signature="10587:10598" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="10643:10649" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="10707:11153" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="11211:11218" ph="{}" />
-            <marker date="1518751596953" expanded="true" signature="11251:11460" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="11496:12337" ph="{...}" />
-            <marker date="1518751596953" expanded="false" signature="12393:12404" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="12445:12451" ph=" }" />
-            <marker date="1518751596953" expanded="true" signature="12505:12681" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="12724:13366" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="13406:14023" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="14065:14369" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="14415:14506" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="14568:14726" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="14774:15193" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="15246:15801" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="15860:16389" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="16446:17288" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="16571:16744" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="16792:17085" ph="{...}" />
-            <marker date="1518751596953" expanded="true" signature="17115:17126" ph="{}" />
-            <marker date="1518751596953" expanded="true" signature="17181:17192" ph="{}" />
-            <marker date="1518751596953" expanded="false" signature="17237:17252" ph=" { " />
-            <marker date="1518751596953" expanded="false" signature="17272:17282" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/controllers/AddBookControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/FilteredListController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/DeleteBookController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/darkspot/controllers/AddBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        <state relative-caret-position="273">
+          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1338,7 +1046,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3998162" />
               </list>
             </option>
           </splitter-proportions>
@@ -1374,7 +1082,6 @@
             <option name="proportions">
               <list>
                 <option value="0.3998162" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1382,7 +1089,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apache.tomcat:servlet-api:9.0.4</last-edited>
+          <last-edited>Maven: javax.annotation:javax.annotation-api:1.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

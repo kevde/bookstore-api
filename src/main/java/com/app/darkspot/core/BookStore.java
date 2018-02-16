@@ -1,6 +1,6 @@
-package core;
+package com.app.darkspot.core;
 
-import filters.Filter;
+import com.app.darkspot.filters.Filter;
 
 import java.util.ArrayList;
 import java.util.Arrays;

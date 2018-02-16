@@ -1,5 +1,6 @@
-package core;
+package com.app.darkspot.core;
 
+import com.app.darkspot.core.Book;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;

@@ -1,21 +1,21 @@
-package filters;
+package com.app.darkspot.filters;
 
-import core.Book;
+import com.app.darkspot.core.Book;
+import com.app.darkspot.filters.PriceFilter;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
 
-import java.util.Date;
-
 import static org.hamcrest.Matchers.isIn;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
+import static org.mockito.Mockito.when;
 
-public class DateFilterTest {
+public class PriceFilterTest {
 
-    private static final Date VALID_DATE = new Date();
-    private static final Date INVALID_DATE = new Date(1);
-    private DateFilter filter;
+    private static final Float FILTERED_PRICE = (float) 2000;
+    private static final Float OTHER_PRICE = (float) 1000;
+    private PriceFilter filter;
     private Book book1;
     private Book book2;
     private Book book3;
@@ -25,15 +25,15 @@ public class DateFilterTest {
         book1 = Mockito.mock(Book.class);
         book2 = Mockito.mock(Book.class);
         book3 = Mockito.mock(Book.class);
-        book1.creationDate = VALID_DATE;
-        book2.creationDate = INVALID_DATE;
-        book3.creationDate = VALID_DATE;
+        when(book1.getPrice()).thenReturn(FILTERED_PRICE);
+        when(book2.getPrice()).thenReturn(OTHER_PRICE);
+        when(book3.getPrice()).thenReturn(FILTERED_PRICE);
     }
 
     @Test
-    public void should_books_filtered_by_valid_date() {
+    public void should_books_filtered_by_price() {
         // given
-        filter = new DateFilter(VALID_DATE);
+        filter = new PriceFilter(FILTERED_PRICE);
         Book[] oldBooks = {book1, book2, book3};
 
         // when
@@ -46,9 +46,9 @@ public class DateFilterTest {
     }
 
     @Test
-    public void should_books_filtered_by_invalid_date() {
+    public void should_books_filtered_by_other_price() {
         // given
-        filter = new DateFilter(INVALID_DATE);
+        filter = new PriceFilter(OTHER_PRICE);
         Book[] oldBooks = {book1, book2, book3};
 
         // when

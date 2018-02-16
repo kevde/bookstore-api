@@ -1,7 +1,7 @@
-package controllers;
+package com.app.darkspot.controllers;
 
-import core.Book;
-import core.BookStore;
+import com.app.darkspot.core.Book;
+import com.app.darkspot.core.BookStore;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;

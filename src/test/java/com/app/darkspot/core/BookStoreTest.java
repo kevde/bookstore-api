@@ -1,6 +1,8 @@
-package core;
+package com.app.darkspot.core;
 
-import filters.Filter;
+import com.app.darkspot.core.Book;
+import com.app.darkspot.core.BookStore;
+import com.app.darkspot.filters.Filter;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;

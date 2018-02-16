@@ -1,6 +1,6 @@
-package filters;
+package com.app.darkspot.filters;
 
-import core.Book;
+import com.app.darkspot.core.Book;
 
 public interface Filter {
 

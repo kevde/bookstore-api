@@ -1,11 +1,10 @@
-package filters;
+package com.app.darkspot.filters;
 
-import core.Book;
+import com.app.darkspot.core.Book;
+import com.app.darkspot.filters.LimitFilter;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
-
-import java.util.Date;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.isIn;
