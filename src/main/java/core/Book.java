@@ -49,4 +49,8 @@ public class Book {
     public Float getPrice() {
         return this.price;
     }
+
+    public String getId() {
+        return this.id;
+    }
 }
